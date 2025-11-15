@@ -23,3 +23,4 @@ Expert in entry-level AI evaluation with MENA focus (Arabic/Persian cultural bia
 **Pro Version (3000$+, In Progress):** [mena-agentic-ai-eval-pro](https://github.com/uaeaitester-cmd/mena-agentic-ai-eval-pro) – OODA + 3D Reports
 
 **Contact Now:** uae.ai.tester@gmail.com | Start Collaboration Today
+
