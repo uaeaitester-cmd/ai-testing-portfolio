@@ -2,24 +2,24 @@
 
 **UAE-based | Emirates ID Verified | Dubai Location**
 
-متخصص ارزیابی پایه هوش مصنوعی با تمرکز MENA (تعصب عربی/فارسی، دقت، امنیت خلاقیت).
+Expert in entry-level AI evaluation with MENA focus (Arabic/Persian cultural bias, accuracy, security, creativity).
 
-## خدمات Entry (۱۵۰۰$+ ارزش‌محور)
-- ارزیابی دقت، امنیت و خلاقیت مدل‌های AI  
-- تشخیص تعصب فرهنگی (داده‌های MENA)  
-- گزارش visualized ساده (PDF + نمودار)  
-- تحویل سریع ۲۴ ساعته  
-- قیمت: ۵۰۰$ پایه + پاداش کیفیت >۱۵%
+## Entry Services (1500$+ Value-Based)
+- AI model accuracy, security, and creativity evaluation  
+- Cultural bias detection (MENA datasets)  
+- Simple visualized reports (PDF + charts)  
+- 24-hour fast delivery  
+- Pricing: $500 base + quality bonus >15%
 
-## وضعیت Pipeline
-- **کامل و آماده اجرا** (Python 3.10+)  
-- **کد در حال نهایی‌سازی از متخصص هوش مصنوعی – دمو کامل در ۲۴ ساعت**  
-- Docker به زودی  
+## Pipeline Status
+- **Fully ready to run** (Python 3.10+)  
+- **Code finalizing with AI specialist – full demo in 24 hours**  
+- Docker coming soon  
 
-## خروجی نمونه Entry
-- گزارش PDF interactive با تحلیل تعصب  
-- آماده گیگ‌های entry در UAE/MENA  
+## Sample Entry Output
+- Interactive PDF report with bias analysis  
+- Ready for entry-level UAE/MENA gigs  
 
-**نسخه Pro (۳۰۰۰$+، در حال پیشرفت):** [mena-agentic-ai-eval-pro](https://github.com/uaeaitester-cmd/mena-agentic-ai-eval-pro)
+**Pro Version (3000$+, In Progress):** [mena-agentic-ai-eval-pro](https://github.com/uaeaitester-cmd/mena-agentic-ai-eval-pro) – OODA + 3D
 
-**تماس فوری:** uae.ai.tester@gmail.com | شروع همکاری امروز
+**Contact Now:** uae.ai.tester@gmail.com | Start Collaboration Today
